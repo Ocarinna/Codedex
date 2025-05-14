@@ -29,8 +29,6 @@ Repositório com meus exercícios e projetos do curso de Python do [CodeDex.io](
 
 ## 📂 Estrutura do Diretório
 
-
-2. **Versão com emojis**:
 ```markdown
 ```text
 📂 /python-fundamentals/
