@@ -18,9 +18,9 @@ Repositório com meus exercícios e projetos do curso de Python do [CodeDex.io](
   
 - [x] 06 - Lists 
   
-- [ ] 07 - Functions 
+- [x] 07 - Functions 
   
-- [ ] 08 - Classes & Objects 
+- [x] 08 - Classes & Objects 
   
 - [ ] 09 - Modules 
   
